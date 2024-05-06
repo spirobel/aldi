@@ -1,9 +1,15 @@
-# gucci
+# aldi
 
 quickstart:
 
 ```bash
 bun create spirobel/gucci yournewproject
+```
+
+barebones quickstart:
+
+```bash
+bun create spirobel/aldi yournewproject
 ```
 
 if you don't have bun installed, run first:
