@@ -15,5 +15,6 @@ url.set([
       )}`,
   ],
 ]);
+url.set("/apple", (mini) => mini.html`<h1>hello pineapple </h1>`);
 
 export default url.install;
